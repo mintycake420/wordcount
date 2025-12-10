@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f42a520-88eb-4a6a-84ad-c0d8886d8765" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/Daily top App.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/HadoopTopAppsByUsage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Launches by day of week.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Usage vs Notifications.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/avg notifications per app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/AverageNotificationsPerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/AverageNotificationsPerAppMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/AverageNotificationsPerAppReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/DailyTopApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/DailyTopAppMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/DailyTopAppReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/LaunchesByWeekday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/LaunchesByWeekdayMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/LaunchesByWeekdayReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/TopAppsByUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/TopAppsByUsageMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/TopAppsByUsageReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/UsageVsNotifications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/UsageVsNotificationsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/UsageVsNotificationsReducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/Application History.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Application History.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/Nodemanagerinfo.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Nodemanagerinfo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/Yarn.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Yarn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/screentime_analysis.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/screentime_analysis.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +100,7 @@
       <workItem from="1765283177221" duration="363000" />
       <workItem from="1765283561183" duration="37000" />
       <workItem from="1765368028716" duration="23000" />
-      <workItem from="1765369122323" duration="6257000" />
+      <workItem from="1765369122323" duration="7503000" />
     </task>
     <servers />
   </component>

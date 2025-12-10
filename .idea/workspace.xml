@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f42a520-88eb-4a6a-84ad-c0d8886d8765" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/univ/haifa/bigdata/screentime_analysis.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-hadoop" beforeDir="false" afterPath="$PROJECT_DIR$/docker-hadoop" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-hadoop/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-hadoop/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yotam\Documents\GitHub\wordcount\src\main\java\edu\univ\haifa\bigdata" />
       <recent name="C:\Users\yotam\Documents\GitHub" />
       <recent name="C:\Users\yotam\Documents\GitHub\BigData_Ex1" />
     </key>
@@ -93,7 +92,7 @@
       <workItem from="1765283177221" duration="363000" />
       <workItem from="1765283561183" duration="37000" />
       <workItem from="1765368028716" duration="23000" />
-      <workItem from="1765369122323" duration="1087000" />
+      <workItem from="1765369122323" duration="1546000" />
     </task>
     <servers />
   </component>

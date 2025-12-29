@@ -35,27 +35,23 @@ public class TopAppsByUsage extends Configured implements Tool {
         job.setJobName("TopAppsByUsage");
         job.setJarByClass(TopAppsByUsage.class);
 
-        // Input / output paths
         FileInputFormat.addInputPath(job, inputPath);
         FileOutputFormat.setOutputPath(job, outputPath);
 
-        // Input / output formats
         job.setInputFormatClass(TextInputFormat.class);
         job.setOutputFormatClass(TextOutputFormat.class);
 
-        // Mapper
         job.setMapperClass(TopAppsByUsageMapper.class);
         job.setMapOutputKeyClass(Text.class);
         job.setMapOutputValueClass(IntWritable.class);
 
-        // Reducer
+
         job.setReducerClass(TopAppsByUsageReducer.class);
         job.setOutputKeyClass(Text.class);        // app name
         job.setOutputValueClass(IntWritable.class); // total usage minutes
 
         job.setNumReduceTasks(numberOfReducers);
 
-        // Submit job and wait
         boolean success = job.waitForCompletion(true);
         return success ? 0 : 1;
     }
